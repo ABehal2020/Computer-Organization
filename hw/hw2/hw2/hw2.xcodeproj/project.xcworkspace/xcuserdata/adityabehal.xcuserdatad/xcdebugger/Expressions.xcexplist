@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "string">
+            </PersistentString>
+            <PersistentString
+               value = "values[currentIndex]">
+            </PersistentString>
+            <PersistentString
+               value = "values">
+            </PersistentString>
+            <PersistentString
+               value = "currentIndex">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(dataString)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(strings[currentIndex])">
+            </PersistentString>
+            <PersistentString
+               value = "currentSize">
+            </PersistentString>
+            <PersistentString
+               value = "j">
+            </PersistentString>
+            <PersistentString
+               value = "strlen(dataString)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "process:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "strings">
+            </PersistentString>
+            <PersistentString
+               value = "values">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

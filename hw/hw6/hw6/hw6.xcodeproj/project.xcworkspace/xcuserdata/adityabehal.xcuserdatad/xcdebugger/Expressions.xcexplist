@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "nopAlert">
+            </PersistentString>
+            <PersistentString
+               value = "code[j][k]">
+            </PersistentString>
+            <PersistentString
+               value = "rvalue1">
+            </PersistentString>
+            <PersistentString
+               value = "rvalue2">
+            </PersistentString>
+            <PersistentString
+               value = "stages[stageIndex]">
+            </PersistentString>
+            <PersistentString
+               value = "stagesTracker">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "lvalues[n]">
+            </PersistentString>
+            <PersistentString
+               value = "totalNops">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "insertBubble:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "stagesTracker">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
